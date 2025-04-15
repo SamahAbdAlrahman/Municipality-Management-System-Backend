@@ -1,11 +1,33 @@
 # Municipality-Management-System-Backend
 A system for managing basic municipal services such as electricity, water, bills, complaints, maintenance, and licenses, in a flexible manner that makes it easier for citizens and the municipality.
 
+# Technologies Used
+Node.js
+
+Express.js
+
+MongoDB with Mongoose
+
+Postman (for API testing)
+
+JWT (Authentication & Authorization)
+
+Multer (File Uploads)
+
+Nodemailer (Emailing invoices)
+
+xlsx (Handling Excel file imports)
+
+
 # Roles:
-1-citizen - The average citizen user
-2-supervisor - A municipal supervisor who reviews employee work and approves some requests
-3-admin - The system administrator who views reports and has other powers
-4-Municipality Accountant - The municipal accountant enters and tracks invoices
+1-citizen 
+
+2-supervisor 
+
+3-admin 
+
+4-Municipality Accountant
+
 
 # Each role has specific permissions:
 **Citizen
